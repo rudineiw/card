@@ -1,3 +1,3 @@
 # Card interativo
 
-Proposta de criação de um card interativo em html e css.
+Proposta de criação de um card interativo usando HTML e CSS.
